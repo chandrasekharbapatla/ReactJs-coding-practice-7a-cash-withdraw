@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.denomination-item {
+  list-style-type: none;
+}
+
+.button {
+  height: 40px;
+  width: 200px;
+  color: #d4d2db;
+  background-color: #382f5a;
+  border-radius: 4px;
+  border-width: 1px;
+  border-color: #c4c4c4;
+  margin-left: 10px;
+  margin-top: 15px;
+  font-size: 22px;
+  font-family: 'Roboto';
+}
